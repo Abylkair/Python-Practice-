@@ -1,0 +1,4 @@
+mysql_host = '127.0.0.10'
+mysql_user = 'postgres'
+mysql_password = '605057'
+mysql_db = 'flaskblog'
